@@ -6,6 +6,26 @@ The project demonstrates skills in Python (data wrangling & visualization), Goog
 
 ---
 
+![Last Commit](https://img.shields.io/github/last-commit/Laksh151098/Kazam-Assignment)
+![Repo Size](https://img.shields.io/github/repo-size/Laksh151098/Kazam-Assignment)
+![Issues](https://img.shields.io/github/issues/Laksh151098/Kazam-Assignment)
+![Pull Requests](https://img.shields.io/github/issues-pr/Laksh151098/Kazam-Assignment)
+![License](https://img.shields.io/github/license/Laksh151098/Kazam-Assignment)
+
+---
+
+## 🛠 Tools Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+</p>
+
+---
+
+
 ## 🔹 Tools Used
 - **Python (Google Colab, Pandas, Matplotlib)** → Epoch to Datetime & date conversion & visualization  
 - **Google Sheets** → Multi-sheet data aggregation using formulas  
